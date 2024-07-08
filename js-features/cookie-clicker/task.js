@@ -1,6 +1,6 @@
 "use strict";
 
-const cookieImage = document.getElementById(".clicker__cookie");
+const cookieImage = document.getElementById("cookie");
 const clickerCounter = document.getElementById("clicker__counter");
 
 cookieImage.addEventListener("click", () => {
